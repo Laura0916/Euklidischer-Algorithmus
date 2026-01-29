@@ -9,6 +9,6 @@ This project demonstrates basic algorithmic thinking, recursion/iteration, and c
 • 	Simple console input/output
 • 	Beginner‑friendly Java structure
 
-## Preview 
+## 🎞️ Preview 
 <img width="435" height="258" alt="image" src="https://github.com/user-attachments/assets/05301450-8f5a-499b-a383-561a17588b8a" />
 
